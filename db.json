@@ -1,4 +1,7 @@
 {
+  "users": [
+    { "id": 1, "firstName": "Nick", "lastName": "Nguyen" },
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
